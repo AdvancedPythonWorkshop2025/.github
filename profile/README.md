@@ -30,7 +30,7 @@ Before the workshop, please ensure you have installed the following tools:
 | **Mar 10 (9–12:30)**  | Dependency Inversion                               | Implement advanced design patterns for testability and modularity, making your codebase easier to extend and maintain.                                                          |
 | **Mar 24 (9–12:30)**   | Scientific Data File Storage with HDF5.          | Explore the JSON, YAML, Numpy, and HDF5 file formats for efficient, large-scale scientific data management and how to integrate it into your Python workflows.                                          |
 | **Mar 31 (9–12:30)**   | Workflow Management with Snakemake and Papermill                 | Orchestrate multi-step pipelines, manage complex data analysis workflows, and ensure reproducibility using Snakemake.                                                           |
-| **Apr 7 (9–12:30)**  | High-Performance Dataframe Analysis with `dask` and `duckdb` | Merge, Filter, and process lots of multi-sesssion data at once out-of-core |
+| **Apr 7 (9–12:30)**  | Data Packaging with XArray and GIN | Make complex data easy to work with and easy to access. |
 
 
 

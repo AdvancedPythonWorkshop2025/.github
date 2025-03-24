@@ -28,8 +28,10 @@ Before the workshop, please ensure you have installed the following tools:
 | **Feb 24 (9–12:30)**  | Git, GitHub, Conda, VSCode, & READMEs               | An introduction to reproducibility concepts, environment management, and collaborative coding practices. Learn to manage your code and dependencies via Git, GitHub, Conda, and VSCode. |
 | **Mar 3 (9–12:30)**   | Functions, Modules, & Testing                      | Dive into writing reusable functions, structuring larger projects into modules, and using Pytest to ensure code reliability.                                                    |
 | **Mar 10 (9–12:30)**  | Dependency Inversion                               | Implement advanced design patterns for testability and modularity, making your codebase easier to extend and maintain.                                                          |
-| **Mar 24 (9–12:30)**  | Conditionals, Loops, & File Processing             | Automate repetitive tasks using Python’s control flow structures. Learn to find files with `glob` and serialize metadata in JSON for streamlined data handling.                  |
-| **Mar 31 (9–12:30)**  | Scientific Data Organization with HDF5 and GIN.          | Explore the HDF5 file format for efficient, large-scale scientific data management and how to integrate it into your Python workflows and back it up with GIN.                                          |
-| **Apr 7 (9–12:30)**   | Workflow Management with Snakemake                 | Orchestrate multi-step pipelines, manage complex data analysis workflows, and ensure reproducibility using Snakemake.                                                           |
+| **Mar 24 (9–12:30)**   | Scientific Data File Storage with HDF5.          | Explore the JSON, YAML, Numpy, and HDF5 file formats for efficient, large-scale scientific data management and how to integrate it into your Python workflows.                                          |
+| **Mar 31 (9–12:30)**   | Workflow Management with Snakemake and Papermill                 | Orchestrate multi-step pipelines, manage complex data analysis workflows, and ensure reproducibility using Snakemake.                                                           |
+| **Apr 7 (9–12:30)**  | High-Performance Dataframe Analysis with `dask` and `duckdb` | Merge, Filter, and process lots of multi-sesssion data at once out-of-core |
+
+
 
 > **Note**: An optional “Joker” session is tentatively planned for April 9 (9–12:30). Content will be determined based on class progress and participant feedback.
